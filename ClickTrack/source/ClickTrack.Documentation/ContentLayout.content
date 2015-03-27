@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Topics>
+  <Topic id="55898686-9f27-4096-b6d0-e2913210f5d5" visible="True" noFile="true" isExpanded="true" title="ClickTrack">
+    <Topic id="27183eb0-2408-46b4-8400-71b917bcde68" visible="True" isDefault="true" title="Quickstart">
+      <HelpKeywords>
+        <HelpKeyword index="K" term="Quickstart" />
+      </HelpKeywords>
+    </Topic>
+    <Topic id="70a03ae4-78ac-496b-8186-0b690744f57e" visible="True" noFile="true" isSelected="true" apiParentMode="InsertAsChild" title="API" />
+  </Topic>
+</Topics>

@@ -1,0 +1,14 @@
+﻿<Window x:Class="ClickTrack.Examples.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wpf="clr-namespace:ClickTrack.Wpf;assembly=ClickTrack"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Button 1" Height="26" Width="120">
+            <wpf:Tracking.TrackerCollection>
+                <wpf:Tracker Id="f620c971-f885-44fb-8e38-3f6459b48640" 
+                             EventName="Click" />
+            </wpf:Tracking.TrackerCollection> 
+        </Button>
+    </Grid>
+</Window>
